@@ -1,0 +1,53 @@
+Variável,Valor,Unidade,Descrição
+FS,1.5,-,Fator de segurança estrutural
+FS_ej,2.0,-,Fator sobre a ruptura dos pinos na ejeção
+FS_V,1.5,-,Fator mínimo sobre a velocidade de flutter
+d_ext,0.060,m,Diâmetro externo do tubo de PVC
+t_c,0.0015,m,Espessura de parede do tubo de PVC
+L_n,0.180,m,Comprimento da ogiva
+L_c,0.650,m,Comprimento do tubo do corpo
+E_c,1166e6,Pa,Módulo de elasticidade do PVC
+sig_c,42.2e6,Pa,Tensão de ruptura do PVC
+S_yc,42.2e6,Pa,Tensão de escoamento em compressão do PVC
+rho_c,1390,kg/m³,Massa específica do PVC
+sig_n,30e6,Pa,Tensão limite do PLA impresso
+m_ogiva,0.102378,kg,Massa da ogiva
+D_o,0.0566,m,Diâmetro externo do ombro da ogiva
+t_o,0.002,m,Espessura da parede do ombro da ogiva
+t_cap,0.005,m,Espessura do fundo do ombro da ogiva
+t_ant,0.005,m,Espessura dos anteparos da baia de aviônicos
+m_ant_baia,0.031897,kg,Massa dos dois anteparos da baia de aviônicos
+n_p,2,-,Número de pinos de cisalhamento
+d_p,0.0012,m,Diâmetro dos pinos de náilon
+tau_p,40e6,Pa,Resistência ao cisalhamento do náilon dos pinos
+x_T,0.700,m,Posição da face dianteira do anteparo de empuxo (a partir da ponta)
+m_estr,0.547466,kg,Massa da estrutura (inclui a ogiva)
+x_estr,0.5131525,m,Posição do CG da estrutura (a partir da ponta)
+m_mot,0.1282,kg,Massa do motor G80T carregado
+x_mot,0.770,m,Posição do CG do motor carregado (a partir da ponta)
+m_avi,0.1225,kg,Massa dos aviônicos
+x_avi,0.4344082,m,Posição do CG dos aviônicos (a partir da ponta)
+m_rec,0.09625,kg,Massa do sistema de recuperação
+x_rec,0.3093636,m,Posição do CG da recuperação (a partir da ponta)
+m_mot_v,0.0657,kg,Massa do motor vazio (após a queima)
+F_max,102.2,N,Empuxo máximo do motor
+t_q,1.71,s,Tempo de queima do motor
+H_Vmax,102.7,m,Altitude em que ocorre a velocidade máxima
+V_max,124.3,m/s,Velocidade máxima de voo
+t_LC2,1.47,s,Instante da velocidade máxima
+T_LC2,24.2,N,Empuxo no instante da velocidade máxima
+D_LC2,14.6,N,Arrasto total no instante da velocidade máxima
+V_raj,10.0,m/s,Velocidade da rajada lateral de projeto
+R_ar,287.05,J/(kg.K),Constante do ar
+C_Na_n,2.0,1/rad,Coeficiente de força normal da ogiva
+X_n,0.08388,m,Posição do centro de pressão da ogiva (a partir da ponta)
+C_r,0.120,m,Corda da aleta na raiz
+C_t,0.050,m,Corda da aleta na ponta
+s_al,0.060,m,Envergadura da aleta
+x_r,0.060,m,Enflechamento do bordo de ataque da aleta
+t_f,0.003,m,Espessura da aleta
+G_f,2600e6,Pa,Módulo de cisalhamento do G10
+kappa,1.4,-,Razão de calores específicos do ar
+p_0,101325,Pa,Pressão atmosférica ao nível do mar
+t_ae,0.006,m,Espessura do anteparo de empuxo
+tau_cola,3e6,Pa,Resistência ao cisalhamento do epóxi sobre PVC
