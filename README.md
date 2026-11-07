@@ -68,4 +68,4 @@ Siglas usadas nos comentários e docstrings (a lista completa está em `referenc
 | HIB | Hibbeler – *Resistência dos materiais* |
 | OR / CAT | Modelo OpenRocket da equipe / catálogo do fabricante (fontes de dados) |
 
-Quando uma expressão não tem fonte identificada, a docstring informa "não identificada". As hipóteses próprias do grupo (placa tratada como viga biapoiada, momento sem alívio de inércia, inversões de espessura) aparecem como dedução no memorial.
+
