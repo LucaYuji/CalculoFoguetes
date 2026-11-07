@@ -31,16 +31,16 @@ O resultado sai no terminal, em uma tabela com as colunas **Variável | Sigla | 
 
 ## Etapas de cálculo
 
-1. Critério de projeto: tensão admissível e margem de segurança
-2. Geometria do tubo
-3. Massas e centro de gravidade
-4. Atmosfera na altitude da velocidade máxima
-5. Cargas: LC1 (empuxo máximo), LC2 (velocidade máxima com rajada), LC3 (ejeção), LC5 (separação da ogiva)
-6. Tubo de PVC e anteparos da baia: flexão composta, Euler, vaso de parede fina, esmagamento
-7. Ogiva e junção com pinos
-8. Aletas: geometria e velocidade de flutter
-9. Compartimento do motor: anteparo de empuxo e colagem
-10. Espessuras mínimas e folgas
+1. Critério de projeto: tensão admissível e margem de segurança;
+2. Geometria do tubo;
+3. Massas e centro de gravidade;
+4. Atmosfera na altitude da velocidade máxima;
+5. Cargas: LC1 (empuxo máximo), LC2 (velocidade máxima com rajada), LC3 (ejeção), LC5 (separação da ogiva). [LC - Load Case];
+6. Tubo de PVC e anteparos da baia: flexão composta, Euler, vaso de parede fina, esmagamento;
+7. Ogiva e junção com pinos;
+8. Aletas: geometria e velocidade de flutter;
+9. Compartimento do motor: anteparo de empuxo e colagem;
+10. Espessuras mínimas e folgas.
 
 ## Alterar os dados
 
