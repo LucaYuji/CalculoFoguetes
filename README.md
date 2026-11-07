@@ -46,11 +46,6 @@ O resultado sai no terminal, em uma tabela com as colunas **Variável | Sigla | 
 
 Basta editar a coluna `Valor` do `inputs.csv` e executar `python main.py` de novo. Os nomes da coluna `Variável` não podem mudar, porque o `inputs.py` lê as variáveis por esses nomes.
 
-## Critério de aprovação
-
-- Margem de segurança: MS = σ_lim / (FS · σ) − 1 ≥ 0
-- Folga de espessura: t_adotada / t_min ≥ 1
-
 ## Referências
 
 Siglas usadas nos comentários e docstrings (a lista completa está em `referencias.py`):
