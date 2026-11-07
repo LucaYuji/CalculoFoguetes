@@ -1,4 +1,4 @@
-# Calculo Foguetes
+# Cálculo Foguetes
 
 # Programa de Cálculo Estrutural – Minifoguete
 
