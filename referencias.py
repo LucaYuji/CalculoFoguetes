@@ -1,14 +1,6 @@
 """
 referencias.py - Significado das siglas de bibliografia usadas em inputs.py e equations.py.
 
-Este arquivo contém apenas comentários; não é usado pelo programa.
-Só entram obras que o grupo tem em mãos: os PDFs da pasta foguetinho/bibliografias
-e o livro impresso do Hibbeler.
-
-Nos TCCs, a página impressa no rodapé é 1 a menos que a página do leitor de PDF.
-No livro de Palmerio, as duas numerações são iguais.
-No Barrowman, a página impressa é 10 a menos que a do PDF (ex.: p. 21 = PDF 31).
-
 =============================================================================
 PDFs NA PASTA foguetinho/bibliografias
 =============================================================================
