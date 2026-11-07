@@ -2,7 +2,7 @@
 
 # Programa de Cálculo Estrutural – Minifoguete
 
-Cálculo estrutural de um minifoguete com 500 m de apogeu e massa máxima de 1,5 kg. O programa segue o *Memorial de Cálculo Estrutural – versão enxuta com bibliografia disponível* (base Rev. 8), etapa por etapa.
+Cálculo estrutural de um minifoguete com 500 m de apogeu e massa máxima de 1,5 kg. O programa segue o *Memorial de Cálculo Estrutural*.
 
 Projeto acadêmico – FATEC São José dos Campos, Grupo 2 (Estrutura).
 
