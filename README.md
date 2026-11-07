@@ -1,5 +1,3 @@
-# Cálculo Foguetes
-
 # Projeto Integrador Aeronáutico
 
 # Programa de Cálculo Estrutural – Minifoguete
